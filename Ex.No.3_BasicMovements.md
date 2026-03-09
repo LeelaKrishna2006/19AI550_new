@@ -1,5 +1,9 @@
 
 # Ex.No: 3  Basic movements in Unity 
+```
+Developed by: ARANI VENKATA SUNDARA LEELA KRISHNA
+reg no: 212224240013
+```
 ### AIM: 
  To learn the basic movements translation,scaling and rotation of game objects through code.
 ### Procedure:
